@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffe8af71-95e8-48dc-8cee-c5fec9e9e388" name="Changes" comment="Mentoria e Curso">
-      <change afterPath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Conteudo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Curso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
@@ -48,6 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowBuild.ShowToolbar" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -101,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629390694115</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Mentoria e Curso">
+      <created>1629391111624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629391111624</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
