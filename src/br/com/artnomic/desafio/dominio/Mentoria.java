@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class Mentoria {
     private String titulo;
-    private String descrisao;
+    private String descricao;
     private LocalDate data;
 
     public String getTitulo() {
@@ -15,12 +15,12 @@ public class Mentoria {
         this.titulo = titulo;
     }
 
-    public String getDescrisao() {
-        return descrisao;
+    public String getDescricao() {
+        return descricao;
     }
 
-    public void setDescrisao(String descrisao) {
-        this.descrisao = descrisao;
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
     }
 
     public LocalDate getData() {
@@ -35,7 +35,7 @@ public class Mentoria {
     public String toString() {
         return "Mentoria{" +
                 "titulo='" + titulo + '\'' +
-                ", descrisao='" + descrisao + '\'' +
+                ", descricao='" + descricao + '\'' +
                 ", data=" + data +
                 '}';
     }

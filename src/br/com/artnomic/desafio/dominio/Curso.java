@@ -2,7 +2,7 @@ package br.com.artnomic.desafio.dominio;
 
 public class Curso {
     private String titulo;
-    private String descrisao;
+    private String descricao;
     private int cargaHoraria;
 
     public String getTitulo() {
@@ -13,12 +13,12 @@ public class Curso {
         this.titulo = titulo;
     }
 
-    public String getDescrisao() {
-        return descrisao;
+    public String getDescricao() {
+        return descricao;
     }
 
-    public void setDescrisao(String descrisao) {
-        this.descrisao = descrisao;
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
     }
 
     public int getCargaHoraria() {
@@ -33,7 +33,7 @@ public class Curso {
     public String toString() {
         return "Curso{" +
                 "titulo='" + titulo + '\'' +
-                ", descrisao='" + descrisao + '\'' +
+                ", descricao='" + descricao + '\'' +
                 ", cargaHoraria=" + cargaHoraria +
                 '}';
     }
